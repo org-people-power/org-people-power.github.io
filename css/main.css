@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Helvetica';
+    font-family:'Helvetica', 'Garamond';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,15 +21,15 @@ a:hover {
 }
 h1 {
     font-size: 2.5em;
-    font-family:'Helvetica', 'Helvetica';
+    font-family:'Helvetica', 'Garamond';
 }
 h2 {
-    font-family:'Helvetica', 'Helvetica';
+    font-family:'Helvetica', 'Garamond';
     font-size: 2em;
 }
 p {
     font-size: 1em;
-    font-family:'Helvetica', 'Helvetica';
+    font-family:'Helvetica', 'Garamond';
     line-height: 1.4em;
     color: #333;
 }
