@@ -42,6 +42,8 @@ footer {
     font-size: .8em;
 }
 ul.c {
-  list-style-type: circle;
-     font-family:'Garamond', 'Garamond';
+  list-style-type: square;
+  font-family:'Garamond', 'Garamond';
+  background: #cce5ff;
+  margin: 5px;
 }
