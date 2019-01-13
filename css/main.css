@@ -44,4 +44,9 @@ footer {
 ul li {
   background: #cce5ff;
   margin: 5px;
+  font-family:'Garamond', 'Garamond';
+}
+ul.a {
+  list-style-type: circle;
+     font-family:'Garamond', 'Garamond';
 }
