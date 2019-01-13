@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #3855E5;
+    color: #4169el;
 }
 a:hover {
     text-decoration: underline;
@@ -44,9 +44,9 @@ footer {
 ul li {
   background: #cce5ff;
   margin: 5px;
-  font-family:'Garamond', 'Garamond';
+  font-family:'Helvetica', 'Helvetica';
 }
-ul.a {
+ul.c {
   list-style-type: circle;
      font-family:'Garamond', 'Garamond';
 }
