@@ -44,6 +44,6 @@ footer {
 ul {
     font-family:'Helvetica'; 'Helvetica';
     padding: 0px;
-    list-style: none;
+    list-style: square;
     font-weight: bold;
 }
