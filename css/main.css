@@ -42,8 +42,7 @@ footer {
     font-size: .8em;
 }
 ul {
-    font-family:'Helvetica'; 'Helvetica';
-    padding: 0px;
+    font-family:'Helvetica'; 'Garamond';
+    padding: 2px;
     list-style: square;
-    font-weight: bold;
 }
