@@ -42,7 +42,13 @@ footer {
     font-size: .8em;
 }
 ul {
-    font-family:'Helvetica'; 'Garamond';
-    padding: 2px;
+    font-family:'Garamond'; 'Garamond';
+    margin-left:10px;
+    list-style: circle;
+}
+ul ul{
+  margin-left:15px;
+    font-family:'Garamond'; 'Garamond';
+    margin-left:15px;
     list-style: square;
 }
