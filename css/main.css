@@ -40,17 +40,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-ul {
-  list-style-type: square;
-  margin: 0;
-  padding: 0;
-    font-family: 'Garamond', 'Garamond';
-}
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1em;
-}
-
-ul.posts li {
-    list-style: none;
+ul li {
+  background: #cce5ff;
+  margin: 5px;
 }
